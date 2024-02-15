@@ -1,0 +1,17 @@
+* {
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  overflow-x: hidden;
+  background-color: aliceblue;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
